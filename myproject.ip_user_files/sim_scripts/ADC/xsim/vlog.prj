@@ -1,0 +1,13 @@
+verilog xil_defaultlib --include "D:/Programs/Xilinx/Vivado/2022.2/data/xilinx_vip/include" --include "../../../../Prime_Generation.gen/sources_1/bd/ADC/ipshared/ec67/hdl" --include "../../../../Prime_Generation.gen/sources_1/bd/ADC/ipshared/ee60/hdl" --include "../../../../myproject.gen/sources_1/bd/ADC/ipshared/1b7e/hdl/verilog" --include "../../../../myproject.gen/sources_1/bd/ADC/ipshared/122e/hdl/verilog" --include "../../../../myproject.gen/sources_1/bd/ADC/ipshared/b205/hdl/verilog" --include "../../../../myproject.gen/sources_1/bd/ADC/ipshared/fd26/hdl/verilog" --include "../../../../myproject.gen/sources_1/bd/ADC/ipshared/ec67/hdl" \
+"../../../../Prime_Generation.gen/sources_1/bd/ADC/ip/ADC_xadc_wiz_0_0/ADC_xadc_wiz_0_0.v" \
+"../../../../Prime_Generation.gen/sources_1/bd/ADC/ip/ADC_processing_system7_0_0/sim/ADC_processing_system7_0_0.v" \
+"../../../../Prime_Generation.gen/sources_1/bd/ADC/ip/ADC_ila_0_0/sim/ADC_ila_0_0.v" \
+"../../../../Prime_Generation.gen/sources_1/bd/ADC/ip/ADC_key_switch_controller_0_0/sim/ADC_key_switch_controller_0_0.v" \
+"../../../../Prime_Generation.gen/sources_1/bd/ADC/ip/ADC_encrypt_0_0/sim/ADC_encrypt_0_0.v" \
+"../../../../Prime_Generation.gen/sources_1/bd/ADC/ip/ADC_key_gen_0_0/sim/ADC_key_gen_0_0.v" \
+"../../../../Prime_Generation.gen/sources_1/bd/ADC/ip/ADC_auto_pc_0/sim/ADC_auto_pc_0.v" \
+"../../../../Prime_Generation.gen/sources_1/bd/ADC/sim/ADC.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
